@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="hhttps://github.com/13090716">Emily Narumi Kobayashi</a>, <a href=""> Guilherme da Silva Melo <a> href=" Gabriella Dias Rossaatto
+## Integrantes: <a href="https://github.com/analiima"> Ana Clara Fontes de Lima, <a href="hhttps://github.com/13090716"> Emily Narumi Kobayashi</a>, <a href=""> Guilherme da Silva Melo <a>, <a href=""> Gabriella Dias Rossaatto <a> 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
